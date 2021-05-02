@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](ss/desktop-view.png)
-![Mobile-view](ss/mobile-view.png)
+![Desktop-View](ss/desktop-view.PNG)
+![Mobile-View](ss/mobile-view.PNG)
 
 ### Links
 
