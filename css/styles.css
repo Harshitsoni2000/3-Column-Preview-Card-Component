@@ -79,20 +79,32 @@ h1 {
   margin-top: 4.25rem;
 }
 
-.btn:hover {
-  background-color: hsl(0, 0%, 95%);
-}
-
-.box-1 .btn:hover {
+.box-1 .btn {
   color: hsl(31, 77%, 52%);
 }
 
-.box-2 .btn:hover {
+.box-2 .btn {
   color: hsl(184, 100%, 22%);
 }
 
-.box-3 .btn:hover {
+.box-3 .btn {
   color: hsl(179, 100%, 13%);
+}
+
+.btn:hover {
+  color: #fff;
+}
+
+.box-1 .btn:hover {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.box-2 .btn:hover {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.box-3 .btn:hover {
+  background-color: hsl(179, 100%, 13%);
 }
 
 @media (min-width: 768px) {
