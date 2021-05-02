@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Harshitsoni2000/3-Column-Preview-Card-Component)
+- [Live Site URL](https://harshitsoni2000.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
 
