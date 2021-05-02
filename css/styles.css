@@ -1,7 +1,7 @@
 body {
   font-family: 'Lexend Deca', sans-serif;
   background-color: hsl(0, 0%, 95%);
-  font-size: 15px;
+  font-size: 0.9375rem;
   line-height: 1.7;
   height: 100%;
   width: 100%;
@@ -41,8 +41,8 @@ h1 {
 .container-fluid {
   display: flex;
   justify-content: center;
-  width: 917px;
-  height: 500px;
+  width: 57.3125rem;
+  height: 31.25rem;
   max-width: 100vw;
   padding: 0;
   margin-bottom: 6rem;
@@ -125,8 +125,8 @@ h1 {
   }
 
   .container-fluid {
-    width: 290px;
-    height: 1342px;
+    width: 18.125rem;
+    height: 83.875rem;
     flex-wrap: wrap;
   }
 
